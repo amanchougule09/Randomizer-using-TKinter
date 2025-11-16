@@ -16,6 +16,11 @@ Perfect for students, developers, and anyone who needs quick and accurate random
 
 ---
 
+### Output
+![Output](Screenshots/Output.png)
+
+---
+
 ## 🧰 Tech Stack
 - **Language:** Python  
 - **GUI Library:** Tkinter  
